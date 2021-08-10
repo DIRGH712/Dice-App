@@ -1,6 +1,6 @@
-# diceapp
+# 🎲Diceapp
 
-did u just lost your dice!! Well here's an app which does your job by generating random dice numbers.
+Did u just lost your dice!! Well here's an app which does your job by generating random dice numbers. Enjoy😊
 ## Getting Started
 
 This project is a starting point for a Flutter application.
